@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        registry = "211223789150.dkr.ecr.us-east-2.amazonaws.com/my-python-repo"
+        registry = "262485716661.dkr.ecr.us-east-1.amazonaws.com/my-python-repo"
     }
     
     stages {
